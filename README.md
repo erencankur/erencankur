@@ -11,8 +11,6 @@
 
 ✨ Currently focusing on scalable web architectures and AI integrations (Image Processing & Medical Models).
 
-⚡ Fun fact: I treat debugging and software architecture like a strategic mind game!
-
 ---------------
 🛠 Tech Stack 🛠
 ---------------
