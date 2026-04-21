@@ -3,10 +3,10 @@
 ---------------
 ✨ About Me ✨
 ---------------
-🌱 I'm a 2nd-year Software Engineering student.
-🔭 I work as a Freelance Full-Stack & AI Developer, building everything from modern web applications to deep learning models.
-🧠 As a former member of the Türk Beyin Takımı, I love applying strategic problem-solving to system design and software architecture.
-✨ Currently focusing on scalable web architectures and AI integrations (Image Processing & Medical Models).
+🌱 I'm a 2nd-year Software Engineering student.\n
+🔭 I work as a Freelance Full-Stack & AI Developer, building everything from modern web applications to deep learning models.\n
+🧠 As a former member of the Türk Beyin Takımı, I love applying strategic problem-solving to system design and software architecture.\n
+✨ Currently focusing on scalable web architectures and AI integrations (Image Processing & Medical Models).\n
 ⚡ Fun fact: I treat debugging and software architecture like a strategic mind game!
 
 ---------------
