@@ -40,8 +40,8 @@ Currently focusing on scalable web architectures and AI integrations.
 
 ![Python](https://img.shields.io/badge/-Python-141a20?style=flat&logo=python)&nbsp;
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-141a20?style=flat&logo=tensorflow)&nbsp;
-![Deep Learning](https://img.shields.io/badge/-Deep_Learning-141a20?style=flat&logo=keras)&nbsp;
-![Image Processing](https://img.shields.io/badge/-Image_Processing-141a20?style=flat&logo=opencv)&nbsp;
+![MediaPipe](https://img.shields.io/badge/-MediaPipe-141a20?style=flat&logo=mediapipe)&nbsp;
+![OpenCV](https://img.shields.io/badge/-OpenCV-141a20?style=flat&logo=opencv)&nbsp;
 
 **Others**
 
@@ -56,6 +56,9 @@ Currently focusing on scalable web architectures and AI integrations.
 ![System Architecture](https://img.shields.io/badge/-System_Architecture-141a20?style=flat&logo=)&nbsp;
 ![Database Management](https://img.shields.io/badge/-Database_Management-141a20?style=flat&logo=)&nbsp;
 ![Cloud Infrastructure](https://img.shields.io/badge/-Cloud_Infrastructure-141a20?style=flat&logo=)&nbsp;
+![Deep Learning](https://img.shields.io/badge/-Deep_Learning-141a20?style=flat&logo=)&nbsp;
+
+![Image Processing](https://img.shields.io/badge/-Image_Processing-141a20?style=flat&logo=)&nbsp;
 ![Analytical & Algorithmic Thinking](https://img.shields.io/badge/-Analytical_Thinking-141a20?style=)&nbsp;
 ![Creative Problem Solving](https://img.shields.io/badge/-Creative_Problem_Solving-141a20?style=)&nbsp;
 ![Team Communication & Leadership](https://img.shields.io/badge/-Team_Leadership-141a20?style=)&nbsp;
