@@ -5,34 +5,26 @@
 ---------------
 🌱 I'm a 2nd-year Software Engineering student.
 
-🔭 I work as a Freelance Full-Stack Engineer and AI Developer, building everything from modern web applications to deep learning models.
+🔭 I work as a Freelance Full-Stack Enginner, building everything modern web applications.
 
 🧠 As a former member of the Türk Beyin Takımı, I love applying strategic problem-solving to system design and software architecture.
 
 ✨ Currently focusing on scalable web architectures and AI integrations.
 
 ---------------
-🛠 Technologies 🛠
+🛠 Tech Stack 🛠
 ---------------
-
-**AI & Data Science**
-
-![Python](https://img.shields.io/badge/-Python-141a20?style=flat&logo=python)&nbsp;
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-141a20?style=flat&logo=tensorflow)&nbsp;
-![OpenCV](https://img.shields.io/badge/-OpenCV-141a20?style=flat&logo=opencv)&nbsp;
-![MediPipe](https://img.shields.io/badge/-MediaPipe-141a20?style=flat&logo=mediapipe)&nbsp;
 
 **Backend & Databases**
 
-![Java](https://img.shields.io/badge/-Java-141a20?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![PHP](https://img.shields.io/badge/-PHP-141a20?style=flat&logo=php)&nbsp;
 ![FastAPI](https://img.shields.io/badge/-FastAPI-141a20?style=flat&logo=fastapi&logoColor=009688)&nbsp;
 ![Prisma ORM](https://img.shields.io/badge/-Prisma_ORM-141a20?style=flat&logo=prisma&logoColor=white)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-141a20?style=flat&logo=postgresql)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-141a20?style=flat&logo=mysql)&nbsp;
 ![SQLite](https://img.shields.io/badge/-SQLite-141a20?style=flat&logo=sqlite)&nbsp;
 ![Firebase](https://img.shields.io/badge/-Firebase-141a20?style=flat&logo=firebase)&nbsp;
-![Supabase](https://img.shields.io/badge/-Supabase-141a20?style=flat&logo=supabase)&nbsp;
+![Java](https://img.shields.io/badge/-Java-141a20?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![PHP](https://img.shields.io/badge/-PHP-141a20?style=flat&logo=php)&nbsp;
 
 **Frontend**
 
@@ -44,24 +36,29 @@
 ![CSS](https://img.shields.io/badge/-CSS-141a20?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-141a20?style=flat&logo=HTML5)&nbsp;
 
-**DevOps, Tools & Others**
+**AI & Data Science**
 
-![Git](https://img.shields.io/badge/-Git-141a20?style=flat&logo=git)&nbsp;
+![Python](https://img.shields.io/badge/-Python-141a20?style=flat&logo=python)&nbsp;
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-141a20?style=flat&logo=tensorflow)&nbsp;
+![Deep Learning](https://img.shields.io/badge/-Deep_Learning-141a20?style=flat&logo=keras)&nbsp;
+![Image Processing](https://img.shields.io/badge/-Image_Processing-141a20?style=flat&logo=opencv)&nbsp;
+
+**Others**
+
+![PyGame](https://img.shields.io/badge/-PyGame-141a20?style=flat&logo=python)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-141a20?style=flat&logo=docker)&nbsp;
+![Git](https://img.shields.io/badge/-Git-141a20?style=flat&logo=git)&nbsp;
 ![Coolify](https://img.shields.io/badge/-Coolify-141a20?style=flat)&nbsp;
 ![VS Code](https://img.shields.io/badge/-Visual_Studio_Code-141a20?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![PyGame](https://img.shields.io/badge/-PyGame-141a20?style=flat&logo=python)&nbsp;
 
 **My Skills**
 
-![Deep Learning](https://img.shields.io/badge/-Deep_Learning-141a20?style=flat&logo=keras)&nbsp;
-![Image Processing](https://img.shields.io/badge/-Image_Processing-141a20?style=flat&logo=opencv)&nbsp;
-![System Architecture & Design](https://img.shields.io/badge/-System_Architecture-141a20?style=flat&logo=amazonaws)&nbsp;
+![System Architecture](https://img.shields.io/badge/-System_Architecture-141a20?style=flat&logo=amazonaws)&nbsp;
 ![Database Management](https://img.shields.io/badge/-Database_Management-141a20?style=flat&logo=mongodb)&nbsp;
 ![Cloud Infrastructure](https://img.shields.io/badge/-Cloud_Infrastructure-141a20?style=flat&logo=googlecloud)&nbsp;
-![Analytical Thinking](https://img.shields.io/badge/-Analytical_Thinking-141a20?style=flat)&nbsp;
+![Analytical & Algorithmic Thinking](https://img.shields.io/badge/-Analytical_Thinking-141a20?style=flat)&nbsp;
 ![Creative Problem Solving](https://img.shields.io/badge/-Creative_Problem_Solving-141a20?style=flat)&nbsp;
-![Team Leadership & Communication](https://img.shields.io/badge/-Team_Leadership-141a20?style=flat)&nbsp;
+![Team Communication & Leadership](https://img.shields.io/badge/-Team_Leadership-141a20?style=flat)&nbsp;
 
 ------------
 📫 Contact Me 📫
