@@ -1,7 +1,7 @@
-### Hey! 👋 I'm Eren
+## Hey! 👋 I'm Eren
 
----------------
-🌱 About Me 🌱
+
+### 🌱 About Me 🌱
 
 I'm a 2nd-year Software Engineering student.
 
@@ -12,7 +12,7 @@ As a former member of the Türk Beyin Takımı, I love applying strategic proble
 Currently focusing on scalable web architectures and AI integrations.
 
 ---------------
-🛠 Technologies 🛠
+​​### 💻​ Technologies 💻​
 
 
 **Backend & Databases**
@@ -51,7 +51,9 @@ Currently focusing on scalable web architectures and AI integrations.
 ![Coolify](https://img.shields.io/badge/-Coolify-141a20?style=flat)&nbsp;
 ![VS Code](https://img.shields.io/badge/-Visual_Studio_Code-141a20?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-**My Skills**
+---------------
+### 🛠️​ My Skills 🛠️​
+
 
 ![System Architecture](https://img.shields.io/badge/-System_Architecture-141a20?style=flat&logo=)&nbsp;
 ![Database Management](https://img.shields.io/badge/-Database_Management-141a20?style=flat&logo=)&nbsp;
@@ -64,7 +66,7 @@ Currently focusing on scalable web architectures and AI integrations.
 ![Team Communication & Leadership](https://img.shields.io/badge/-Team_Leadership-141a20?style=)&nbsp;
 
 ---------------
-📫 Contact Me 📫
+### 📫 Contact Me 📫
 
 [![Email](https://img.shields.io/badge/-Email_Me-D14836?style=flat&logo=gmail&logoColor=white)](mailto:erncnkr@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/erencankur)
