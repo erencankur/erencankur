@@ -32,7 +32,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-141a20?style=flat&logo=mysql)&nbsp;
 ![SQLite](https://img.shields.io/badge/-SQLite-141a20?style=flat&logo=sqlite)&nbsp;
 ![Firebase](https://img.shields.io/badge/-Firebase-141a20?style=flat&logo=firebase)&nbsp;
-![Supabase](https://img.shields.io/badge/-Firebase-141a20?style=flat&logo=supabase)&nbsp;
+![Supabase](https://img.shields.io/badge/-Supabase-141a20?style=flat&logo=supabase)&nbsp;
 
 **Frontend**
 
