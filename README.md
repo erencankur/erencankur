@@ -1,6 +1,6 @@
 ### Hey! 👋 I'm Eren
 
----------------
+
 🌱 About Me 🌱
 
 I'm a 2nd-year Software Engineering student.
@@ -11,7 +11,7 @@ As a former member of the Türk Beyin Takımı, I love applying strategic proble
 
 Currently focusing on scalable web architectures and AI integrations.
 
----------------
+
 🛠 Technologies 🛠
 
 
@@ -60,7 +60,7 @@ Currently focusing on scalable web architectures and AI integrations.
 ![Creative Problem Solving](https://img.shields.io/badge/-Creative_Problem_Solving-141a20?style=flat)&nbsp;
 ![Team Communication & Leadership](https://img.shields.io/badge/-Team_Leadership-141a20?style=flat)&nbsp;
 
-------------
+
 📫 Contact Me 📫
 
 
