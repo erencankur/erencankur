@@ -12,7 +12,7 @@ As a former member of the Türk Beyin Takımı, I love applying strategic proble
 Currently focusing on scalable web architectures and AI integrations.
 
 ---------------
-​​### 🛠️​ Technologies 🛠️
+### 🛠️ Technologies 🛠️
 
 
 **Backend & Databases**
