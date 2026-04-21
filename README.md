@@ -1,19 +1,19 @@
 ### Hey! 👋 I'm Eren
 
 ---------------
-✨ About Me ✨
+🌱 About Me 🌱
+
+I'm a 2nd-year Software Engineering student.
+
+I work as a Freelance Full-Stack Enginner, building everything modern web applications.
+
+As a former member of the Türk Beyin Takımı, I love applying strategic problem-solving to system design and software architecture.
+
+Currently focusing on scalable web architectures and AI integrations.
+
 ---------------
-🌱 I'm a 2nd-year Software Engineering student.
+🛠 Technologies 🛠
 
-🔭 I work as a Freelance Full-Stack Enginner, building everything modern web applications.
-
-🧠 As a former member of the Türk Beyin Takımı, I love applying strategic problem-solving to system design and software architecture.
-
-✨ Currently focusing on scalable web architectures and AI integrations.
-
----------------
-🛠 Tech Stack 🛠
----------------
 
 **Backend & Databases**
 
@@ -62,7 +62,7 @@
 
 ------------
 📫 Contact Me 📫
-------------
+
 
 [![Email](https://img.shields.io/badge/-Email_Me-D14836?style=flat&logo=gmail&logoColor=white)](mailto:erncnkr@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/erencankur)
