@@ -12,7 +12,7 @@ As a former member of the Türk Beyin Takımı, I love applying strategic proble
 Currently focusing on scalable web architectures and AI integrations.
 
 ---------------
-​​### 💻​ Technologies 💻​
+​​### 🛠️​ Technologies 🛠️
 
 
 **Backend & Databases**
@@ -52,7 +52,7 @@ Currently focusing on scalable web architectures and AI integrations.
 ![VS Code](https://img.shields.io/badge/-Visual_Studio_Code-141a20?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 ---------------
-### 🛠️​ My Skills 🛠️​
+### ✨ My Skills ✨​
 
 
 ![System Architecture](https://img.shields.io/badge/-System_Architecture-141a20?style=flat&logo=)&nbsp;
