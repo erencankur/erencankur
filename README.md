@@ -15,16 +15,8 @@
 🛠 Tech Stack 🛠
 ---------------
 
-**Frontend & Game Dev**
-![Next.js](https://img.shields.io/badge/-Next.js-141a20?style=flat&logo=next.js&logoColor=white)&nbsp;
-![React](https://img.shields.io/badge/-React-141a20?style=flat&logo=react)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-141a20?style=flat&logo=typescript&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-141a20?style=flat&logo=javascript)&nbsp;
-![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-141a20?style=flat&logo=tailwind-css&logoColor=38B2AC)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-141a20?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-141a20?style=flat&logo=HTML5)&nbsp;
-
 **Backend & Databases**
+
 ![FastAPI](https://img.shields.io/badge/-FastAPI-141a20?style=flat&logo=fastapi&logoColor=009688)&nbsp;
 ![Prisma ORM](https://img.shields.io/badge/-Prisma_ORM-141a20?style=flat&logo=prisma&logoColor=white)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-141a20?style=flat&logo=postgresql)&nbsp;
@@ -35,12 +27,24 @@
 ![PHP](https://img.shields.io/badge/-PHP-141a20?style=flat&logo=php)&nbsp;
 
 **AI & Data Science**
+
 ![Python](https://img.shields.io/badge/-Python-141a20?style=flat&logo=python)&nbsp;
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-141a20?style=flat&logo=tensorflow)&nbsp;
 ![Deep Learning](https://img.shields.io/badge/-Deep_Learning-141a20?style=flat&logo=keras)&nbsp;
 ![Image Processing](https://img.shields.io/badge/-Image_Processing-141a20?style=flat&logo=opencv)&nbsp;
 
+**Frontend**
+
+![Next.js](https://img.shields.io/badge/-Next.js-141a20?style=flat&logo=next.js&logoColor=white)&nbsp;
+![React](https://img.shields.io/badge/-React-141a20?style=flat&logo=react)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-141a20?style=flat&logo=typescript&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-141a20?style=flat&logo=javascript)&nbsp;
+![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-141a20?style=flat&logo=tailwind-css&logoColor=38B2AC)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-141a20?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-141a20?style=flat&logo=HTML5)&nbsp;
+
 **DevOps, Tools, Architecture & Others**
+
 ![Git](https://img.shields.io/badge/-Git-141a20?style=flat&logo=git)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-141a20?style=flat&logo=docker)&nbsp;
 ![Coolify](https://img.shields.io/badge/-Coolify-141a20?style=flat)&nbsp;
