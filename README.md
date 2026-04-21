@@ -9,11 +9,18 @@
 
 🧠 As a former member of the Türk Beyin Takımı, I love applying strategic problem-solving to system design and software architecture.
 
-✨ Currently focusing on scalable web architectures and AI integrations (Image Processing & Medical Models).
+✨ Currently focusing on scalable web architectures and AI integrations.
 
 ---------------
 🛠 Tech Stack 🛠
 ---------------
+
+**AI & Data Science**
+
+![Python](https://img.shields.io/badge/-Python-141a20?style=flat&logo=python)&nbsp;
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-141a20?style=flat&logo=tensorflow)&nbsp;
+![Deep Learning](https://img.shields.io/badge/-Deep_Learning-141a20?style=flat&logo=keras)&nbsp;
+![Image Processing](https://img.shields.io/badge/-Image_Processing-141a20?style=flat&logo=opencv)&nbsp;
 
 **Backend & Databases**
 
@@ -26,13 +33,6 @@
 ![Java](https://img.shields.io/badge/-Java-141a20?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-141a20?style=flat&logo=php)&nbsp;
 
-**AI & Data Science**
-
-![Python](https://img.shields.io/badge/-Python-141a20?style=flat&logo=python)&nbsp;
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-141a20?style=flat&logo=tensorflow)&nbsp;
-![Deep Learning](https://img.shields.io/badge/-Deep_Learning-141a20?style=flat&logo=keras)&nbsp;
-![Image Processing](https://img.shields.io/badge/-Image_Processing-141a20?style=flat&logo=opencv)&nbsp;
-
 **Frontend**
 
 ![Next.js](https://img.shields.io/badge/-Next.js-141a20?style=flat&logo=next.js&logoColor=white)&nbsp;
@@ -43,15 +43,22 @@
 ![CSS](https://img.shields.io/badge/-CSS-141a20?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-141a20?style=flat&logo=HTML5)&nbsp;
 
-**DevOps, Tools, Architecture & Others**
+**DevOps, Tools & Others**
 
 ![Git](https://img.shields.io/badge/-Git-141a20?style=flat&logo=git)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-141a20?style=flat&logo=docker)&nbsp;
 ![Coolify](https://img.shields.io/badge/-Coolify-141a20?style=flat)&nbsp;
 ![VS Code](https://img.shields.io/badge/-Visual_Studio_Code-141a20?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![System Design](https://img.shields.io/badge/-System_Design-141a20?style=flat&logo=databricks)&nbsp;
-![Software Architecture](https://img.shields.io/badge/-Software_Architecture-141a20?style=flat&logo=amazonaws)&nbsp;
 ![PyGame](https://img.shields.io/badge/-PyGame-141a20?style=flat&logo=python)&nbsp;
+
+**My Skills**
+
+![System Architecture & Design](https://img.shields.io/badge/-System_Architecture-141a20?style=flat&logo=amazonaws)&nbsp;
+![Database Management](https://img.shields.io/badge/-Database_Management-141a20?style=flat&logo=mongodb)&nbsp;
+![Cloud Infrastructure](https://img.shields.io/badge/-Cloud_Infrastructure-141a20?style=flat&logo=googlecloud)&nbsp;
+![Analytical Thinking](https://img.shields.io/badge/-Analytical_Thinking-141a20?style=flat)&nbsp;
+![Creative Problem Solving](https://img.shields.io/badge/-Creative_Problem_Solving-141a20?style=flat)&nbsp;
+![Team Leadership & Communication](https://img.shields.io/badge/-Team_Leadership-141a20?style=flat)&nbsp;
 
 ------------
 📫 Contact Me 📫
