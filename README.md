@@ -5,33 +5,34 @@
 ---------------
 🌱 I'm a 2nd-year Software Engineering student.
 
-🔭 I work as a Freelance Full-Stack & AI Developer, building everything from modern web applications to deep learning models.
+🔭 I work as a Freelance Full-Stack Engineer and AI Developer, building everything from modern web applications to deep learning models.
 
 🧠 As a former member of the Türk Beyin Takımı, I love applying strategic problem-solving to system design and software architecture.
 
 ✨ Currently focusing on scalable web architectures and AI integrations.
 
 ---------------
-🛠 Tech Stack 🛠
+🛠 Technologies 🛠
 ---------------
 
 **AI & Data Science**
 
 ![Python](https://img.shields.io/badge/-Python-141a20?style=flat&logo=python)&nbsp;
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-141a20?style=flat&logo=tensorflow)&nbsp;
-![Deep Learning](https://img.shields.io/badge/-Deep_Learning-141a20?style=flat&logo=keras)&nbsp;
-![Image Processing](https://img.shields.io/badge/-Image_Processing-141a20?style=flat&logo=opencv)&nbsp;
+![OpenCV](https://img.shields.io/badge/-OpenCV-141a20?style=flat&logo=opencv)&nbsp;
+![MediPipe](https://img.shields.io/badge/-MediaPipe-141a20?style=flat&logo=mediapipe)&nbsp;
 
 **Backend & Databases**
 
+![Java](https://img.shields.io/badge/-Java-141a20?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![PHP](https://img.shields.io/badge/-PHP-141a20?style=flat&logo=php)&nbsp;
 ![FastAPI](https://img.shields.io/badge/-FastAPI-141a20?style=flat&logo=fastapi&logoColor=009688)&nbsp;
 ![Prisma ORM](https://img.shields.io/badge/-Prisma_ORM-141a20?style=flat&logo=prisma&logoColor=white)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-141a20?style=flat&logo=postgresql)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-141a20?style=flat&logo=mysql)&nbsp;
 ![SQLite](https://img.shields.io/badge/-SQLite-141a20?style=flat&logo=sqlite)&nbsp;
 ![Firebase](https://img.shields.io/badge/-Firebase-141a20?style=flat&logo=firebase)&nbsp;
-![Java](https://img.shields.io/badge/-Java-141a20?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![PHP](https://img.shields.io/badge/-PHP-141a20?style=flat&logo=php)&nbsp;
+![Supabase](https://img.shields.io/badge/-Firebase-141a20?style=flat&logo=supabase)&nbsp;
 
 **Frontend**
 
@@ -53,6 +54,8 @@
 
 **My Skills**
 
+![Deep Learning](https://img.shields.io/badge/-Deep_Learning-141a20?style=flat&logo=keras)&nbsp;
+![Image Processing](https://img.shields.io/badge/-Image_Processing-141a20?style=flat&logo=opencv)&nbsp;
 ![System Architecture & Design](https://img.shields.io/badge/-System_Architecture-141a20?style=flat&logo=amazonaws)&nbsp;
 ![Database Management](https://img.shields.io/badge/-Database_Management-141a20?style=flat&logo=mongodb)&nbsp;
 ![Cloud Infrastructure](https://img.shields.io/badge/-Cloud_Infrastructure-141a20?style=flat&logo=googlecloud)&nbsp;
@@ -63,8 +66,6 @@
 ------------
 📫 Contact Me 📫
 ------------
-
-You can reach out to me for freelance projects, collaborations, or just to say hi!
 
 [![Email](https://img.shields.io/badge/-Email_Me-D14836?style=flat&logo=gmail&logoColor=white)](mailto:erncnkr@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/erencankur)
