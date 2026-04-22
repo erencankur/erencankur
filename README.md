@@ -12,7 +12,6 @@ As a former member of the Türk Beyin Takımı, I love applying strategic proble
 ---------------
 ### 🛠️ Technologies 🛠️
 
-
 ![Java](https://img.shields.io/badge/-Java-141a20?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-141a20?style=flat&logo=php)&nbsp;
 ![FastAPI](https://img.shields.io/badge/-FastAPI-141a20?style=flat&logo=fastapi&logoColor=009688)&nbsp;
@@ -23,12 +22,10 @@ As a former member of the Türk Beyin Takımı, I love applying strategic proble
 ![Firebase](https://img.shields.io/badge/-Firebase-141a20?style=flat&logo=firebase)&nbsp;
 ![Supabase](https://img.shields.io/badge/-Supabase-141a20?style=flat&logo=supabase)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-141a20?style=flat&logo=docker)&nbsp;
-
 ![Next.js](https://img.shields.io/badge/-Next.js-141a20?style=flat&logo=next.js&logoColor=white)&nbsp;
 ![React](https://img.shields.io/badge/-React-141a20?style=flat&logo=react)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-141a20?style=flat&logo=typescript&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-141a20?style=flat&logo=javascript)&nbsp;
-![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-141a20?style=flat&logo=tailwind-css&logoColor=38B2AC)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-141a20?style=flat&logo=python)&nbsp;
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-141a20?style=flat&logo=tensorflow)&nbsp;
 ![MediaPipe](https://img.shields.io/badge/-MediaPipe-141a20?style=flat&logo=mediapipe)&nbsp;
@@ -37,12 +34,13 @@ As a former member of the Türk Beyin Takımı, I love applying strategic proble
 ---------------
 ### ✨ My Skills ✨​
 
-
-![System Architecture](https://img.shields.io/badge/-System_Architecture-141a20?style=flat&logo=)&nbsp;
+![System Design](https://img.shields.io/badge/-System_Design-141a20?style=flat&logo=)&nbsp;
+![Backend Architecture](https://img.shields.io/badge/-Backend_Architecture-141a20?style=flat&logo=)&nbsp;
 ![Database Management](https://img.shields.io/badge/-Database_Management-141a20?style=flat&logo=)&nbsp;
 ![Cloud Infrastructure](https://img.shields.io/badge/-Cloud_Infrastructure-141a20?style=flat&logo=)&nbsp;
 ![Deep Learning](https://img.shields.io/badge/-Deep_Learning-141a20?style=flat&logo=)&nbsp;
 ![Image Processing](https://img.shields.io/badge/-Image_Processing-141a20?style=flat&logo=)&nbsp;
+![Data Science](https://img.shields.io/badge/-Data_Science-141a20?style=flat&logo=)&nbsp;
 
 ---------------
 ### 📫 Contact Me 📫
