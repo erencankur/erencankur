@@ -5,7 +5,7 @@
 
 I'm a 2nd-year Software Engineering student.
 
-Currently I work as a Freelance Full-Stack Enginner and I focusing on web architectures and AI integrations.
+Currently I work as a Freelance Full-Stack Engineer and I focusing on web architectures and AI integrations.
 
 As a former member of the Türk Beyin Takımı, I love applying strategic problem-solving to system design and software architecture.
 
