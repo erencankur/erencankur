@@ -12,24 +12,25 @@ As a former member of the Türk Beyin Takımı, I love applying strategic proble
 ---------------
 ### 🛠️ Technologies 🛠️
 
-![Java](https://img.shields.io/badge/-Java-141a20?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![PHP](https://img.shields.io/badge/-PHP-141a20?style=flat&logo=php)&nbsp;
-![FastAPI](https://img.shields.io/badge/-FastAPI-141a20?style=flat&logo=fastapi&logoColor=009688)&nbsp;
-![Prisma ORM](https://img.shields.io/badge/-Prisma_ORM-141a20?style=flat&logo=prisma&logoColor=white)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-141a20?style=flat&logo=postgresql)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-141a20?style=flat&logo=mysql)&nbsp;
-![SQLite](https://img.shields.io/badge/-SQLite-141a20?style=flat&logo=sqlite)&nbsp;
-![Firebase](https://img.shields.io/badge/-Firebase-141a20?style=flat&logo=firebase)&nbsp;
-![Supabase](https://img.shields.io/badge/-Supabase-141a20?style=flat&logo=supabase)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-141a20?style=flat&logo=docker)&nbsp;
-![Next.js](https://img.shields.io/badge/-Next.js-141a20?style=flat&logo=next.js&logoColor=white)&nbsp;
-![React](https://img.shields.io/badge/-React-141a20?style=flat&logo=react)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-141a20?style=flat&logo=typescript&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-141a20?style=flat&logo=javascript)&nbsp;
-![Python](https://img.shields.io/badge/-Python-141a20?style=flat&logo=python)&nbsp;
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-141a20?style=flat&logo=tensorflow)&nbsp;
-![MediaPipe](https://img.shields.io/badge/-MediaPipe-141a20?style=flat&logo=mediapipe)&nbsp;
-![OpenCV](https://img.shields.io/badge/-OpenCV-141a20?style=flat&logo=opencv)&nbsp;
+![Next.js](https://img.shields.io/badge/-Next.js-141a20?style=flat\&logo=next.js\&logoColor=white) 
+![React](https://img.shields.io/badge/-React-141a20?style=flat\&logo=react) 
+![TypeScript](https://img.shields.io/badge/-TypeScript-141a20?style=flat\&logo=typescript\&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/-JavaScript-141a20?style=flat\&logo=javascript) 
+![Python](https://img.shields.io/badge/-Python-141a20?style=flat\&logo=python) 
+![Java](https://img.shields.io/badge/-Java-141a20?style=flat\&logo=Java\&logoColor=FFA518) 
+![PHP](https://img.shields.io/badge/-PHP-141a20?style=flat\&logo=php) 
+![FastAPI](https://img.shields.io/badge/-FastAPI-141a20?style=flat\&logo=fastapi\&logoColor=009688) 
+![Prisma ORM](https://img.shields.io/badge/-Prisma_ORM-141a20?style=flat\&logo=prisma\&logoColor=white) 
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-141a20?style=flat\&logo=postgresql) 
+![MySQL](https://img.shields.io/badge/-MySQL-141a20?style=flat\&logo=mysql) 
+![SQLite](https://img.shields.io/badge/-SQLite-141a20?style=flat\&logo=sqlite) 
+![Firebase](https://img.shields.io/badge/-Firebase-141a20?style=flat\&logo=firebase) 
+![Supabase](https://img.shields.io/badge/-Supabase-141a20?style=flat\&logo=supabase) 
+![Docker](https://img.shields.io/badge/-Docker-141a20?style=flat\&logo=docker) 
+![Coolify](https://img.shields.io/badge/-Coolify-141a20?style=flat\&logo=Coolify\&logoColor=FFA518) 
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-141a20?style=flat\&logo=tensorflow) 
+![MediaPipe](https://img.shields.io/badge/-MediaPipe-141a20?style=flat\&logo=mediapipe) 
+![OpenCV](https://img.shields.io/badge/-OpenCV-141a20?style=flat\&logo=opencv) 
 
 ---------------
 ### ✨ My Skills ✨​
