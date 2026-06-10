@@ -29,6 +29,7 @@ As a former member of the Türk Beyin Takımı, I love applying strategic proble
 ![Docker](https://img.shields.io/badge/-Docker-141a20?style=flat\&logo=docker) 
 ![Coolify](https://img.shields.io/badge/-Coolify-141a20?style=flat\&logo=Coolify\&logoColor=FFA518) 
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-141a20?style=flat\&logo=tensorflow) 
+![PyTorch](https://img.shields.io/badge/-PyTorch-141a20?style=flat\&logo=pytorch) 
 ![MediaPipe](https://img.shields.io/badge/-MediaPipe-141a20?style=flat\&logo=mediapipe) 
 ![OpenCV](https://img.shields.io/badge/-OpenCV-141a20?style=flat\&logo=opencv) 
 
