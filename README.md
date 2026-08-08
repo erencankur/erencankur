@@ -5,7 +5,7 @@
 
 I'm a 2nd-year Software Engineering student.
 
-Currently I work as a Freelance Full-Stack Engineer and I focusing on web architectures and AI integrations.
+Currently I work as a Freelance Full-Stack Engineer and I focus on web architectures and AI integrations.
 
 As a former member of the Türk Beyin Takımı, I love applying strategic problem-solving to system design and software architecture.
 
@@ -47,11 +47,12 @@ As a former member of the Türk Beyin Takımı, I love applying strategic proble
 ![Vercel](https://img.shields.io/badge/-Vercel-141a20?style=flat&logo=vercel&logoColor=white)
 
 **Currently Learning**  
+![Edge Computing](https://img.shields.io/badge/-Edge_Computing-141a20?style=flat&logo=cloudflare&logoColor=F38020)
+![.NET](https://img.shields.io/badge/-.NET-141a20?style=flat&logo=dotnet&logoColor=white)
+![GDScript](https://img.shields.io/badge/-GDScript-141a20?style=flat&logo=godotengine)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-141a20?style=flat&logo=mongodb)
 ![PL/SQL](https://img.shields.io/badge/-PL%2FSQL-141a20?style=flat&logo=oracle&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-141a20?style=flat&logo=kubernetes)
-![.NET](https://img.shields.io/badge/-.NET-141a20?style=flat&logo=dotnet&logoColor=white)
-![GDScript](https://img.shields.io/badge/-GDScript-141a20?style=flat&logo=godotengine)
 
 ---------------
 ### ✨ My Skills ✨​
@@ -59,10 +60,13 @@ As a former member of the Türk Beyin Takımı, I love applying strategic proble
 ![System Design](https://img.shields.io/badge/-System_Design-141a20?style=flat&logo=)&nbsp;
 ![Backend Architecture](https://img.shields.io/badge/-Backend_Architecture-141a20?style=flat&logo=)&nbsp;
 ![Database Management](https://img.shields.io/badge/-Database_Management-141a20?style=flat&logo=)&nbsp;
+![API Development](https://img.shields.io/badge/-API_Development-141a20?style=flat&logo=)&nbsp;
 ![Cloud Infrastructure](https://img.shields.io/badge/-Cloud_Infrastructure-141a20?style=flat&logo=)&nbsp;
 ![Deep Learning](https://img.shields.io/badge/-Deep_Learning-141a20?style=flat&logo=)&nbsp;
 ![Image Processing](https://img.shields.io/badge/-Image_Processing-141a20?style=flat&logo=)&nbsp;
 ![Data Science](https://img.shields.io/badge/-Data_Science-141a20?style=flat&logo=)&nbsp;
+![AI Pair Programming](https://img.shields.io/badge/-AI_Pair_Programming-141a20?style=flat&logo=)&nbsp;
+![AI-Assisted Design](https://img.shields.io/badge/-AI--Assisted_Design-141a20?style=flat&logo=)&nbsp;
 
 ---------------
 ### 📫 Contact Me 📫
