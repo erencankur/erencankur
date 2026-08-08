@@ -13,12 +13,18 @@ As a former member of the Türk Beyin Takımı, I love applying strategic proble
 ### 🛠️ Technologies 🛠️
 
 **Languages**  
+![Python](https://img.shields.io/badge/-Python-141a20?style=flat&logo=python) 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-141a20?style=flat&logo=typescript&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-141a20?style=flat&logo=javascript) 
-![Python](https://img.shields.io/badge/-Python-141a20?style=flat&logo=python) 
 ![Java](https://img.shields.io/badge/-Java-141a20?style=flat&logo=Java&logoColor=FFA518) 
 ![PHP](https://img.shields.io/badge/-PHP-141a20?style=flat&logo=php) 
 ![Dart](https://img.shields.io/badge/-Dart-141a20?style=flat&logo=dart) 
+
+**AI & Machine Learning**  
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-141a20?style=flat&logo=tensorflow) 
+![PyTorch](https://img.shields.io/badge/-PyTorch-141a20?style=flat&logo=pytorch) 
+![MediaPipe](https://img.shields.io/badge/-MediaPipe-141a20?style=flat&logo=mediapipe) 
+![OpenCV](https://img.shields.io/badge/-OpenCV-141a20?style=flat&logo=opencv) 
 
 **Frontend & Mobile**  
 ![React](https://img.shields.io/badge/-React-141a20?style=flat&logo=react) 
@@ -28,32 +34,24 @@ As a former member of the Türk Beyin Takımı, I love applying strategic proble
 
 **Backend & Databases**  
 ![FastAPI](https://img.shields.io/badge/-FastAPI-141a20?style=flat&logo=fastapi&logoColor=009688) 
+![Prisma](https://img.shields.io/badge/-Prisma_ORM-141a20?style=flat&logo=prisma&logoColor=white) 
+![SQLite](https://img.shields.io/badge/-SQLite-141a20?style=flat&logo=sqlite) 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-141a20?style=flat&logo=postgresql) 
 ![MySQL](https://img.shields.io/badge/-MySQL-141a20?style=flat&logo=mysql) 
-![SQLite](https://img.shields.io/badge/-SQLite-141a20?style=flat&logo=sqlite) 
-![Prisma](https://img.shields.io/badge/-Prisma_ORM-141a20?style=flat&logo=prisma&logoColor=white) 
 ![Firebase](https://img.shields.io/badge/-Firebase-141a20?style=flat&logo=firebase) 
 ![Supabase](https://img.shields.io/badge/-Supabase-141a20?style=flat&logo=supabase) 
-
-**AI & Machine Learning**  
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-141a20?style=flat&logo=tensorflow) 
-![PyTorch](https://img.shields.io/badge/-PyTorch-141a20?style=flat&logo=pytorch) 
-![MediaPipe](https://img.shields.io/badge/-MediaPipe-141a20?style=flat&logo=mediapipe) 
-![OpenCV](https://img.shields.io/badge/-OpenCV-141a20?style=flat&logo=opencv) 
 
 **DevOps & Deployment**  
 ![Docker](https://img.shields.io/badge/-Docker-141a20?style=flat&logo=docker) 
 ![Coolify](https://img.shields.io/badge/-Coolify-141a20?style=flat&logo=Coolify&logoColor=FFA518) 
 ![Vercel](https://img.shields.io/badge/-Vercel-141a20?style=flat&logo=vercel&logoColor=white)
 
----------------
-### 🚀 Currently Learning 🚀
-
-![.NET](https://img.shields.io/badge/-.NET-141a20?style=flat&logo=dotnet&logoColor=white)
-![GDScript](https://img.shields.io/badge/-Godot-141a20?style=flat&logo=godotengine)
+**Currently Learning**  
 ![MongoDB](https://img.shields.io/badge/-MongoDB-141a20?style=flat&logo=mongodb)
 ![PL/SQL](https://img.shields.io/badge/-PL%2FSQL-141a20?style=flat&logo=oracle&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-141a20?style=flat&logo=kubernetes)
+![.NET](https://img.shields.io/badge/-.NET-141a20?style=flat&logo=dotnet&logoColor=white)
+![GDScript](https://img.shields.io/badge/-Godot-141a20?style=flat&logo=godotengine)
 
 ---------------
 ### ✨ My Skills ✨​
