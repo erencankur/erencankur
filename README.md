@@ -34,7 +34,7 @@ As a former member of the Türk Beyin Takımı, I love applying strategic proble
 
 **Backend & Databases**  
 ![FastAPI](https://img.shields.io/badge/-FastAPI-141a20?style=flat&logo=fastapi&logoColor=009688) 
-![Prisma](https://img.shields.io/badge/-Prisma_ORM-141a20?style=flat&logo=prisma&logoColor=white) 
+![Prisma](https://img.shields.io/badge/-Prisma-141a20?style=flat&logo=prisma&logoColor=white) 
 ![SQLite](https://img.shields.io/badge/-SQLite-141a20?style=flat&logo=sqlite) 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-141a20?style=flat&logo=postgresql) 
 ![MySQL](https://img.shields.io/badge/-MySQL-141a20?style=flat&logo=mysql) 
@@ -51,7 +51,7 @@ As a former member of the Türk Beyin Takımı, I love applying strategic proble
 ![PL/SQL](https://img.shields.io/badge/-PL%2FSQL-141a20?style=flat&logo=oracle&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-141a20?style=flat&logo=kubernetes)
 ![.NET](https://img.shields.io/badge/-.NET-141a20?style=flat&logo=dotnet&logoColor=white)
-![GDScript](https://img.shields.io/badge/-Godot-141a20?style=flat&logo=godotengine)
+![GDScript](https://img.shields.io/badge/-GDScript-141a20?style=flat&logo=godotengine)
 
 ---------------
 ### ✨ My Skills ✨​
