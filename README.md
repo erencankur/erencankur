@@ -14,8 +14,10 @@ As a former member of the Türk Beyin Takımı, I love applying strategic proble
 
 ![Next.js](https://img.shields.io/badge/-Next.js-141a20?style=flat\&logo=next.js\&logoColor=white) 
 ![React](https://img.shields.io/badge/-React-141a20?style=flat\&logo=react) 
+![Flutter](https://img.shields.io/badge/-Flutter-141a20?style=flat\&logo=flutter) 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-141a20?style=flat\&logo=typescript\&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-141a20?style=flat\&logo=javascript) 
+![Dart](https://img.shields.io/badge/-Dart-141a20?style=flat\&logo=dart) 
 ![Python](https://img.shields.io/badge/-Python-141a20?style=flat\&logo=python) 
 ![Java](https://img.shields.io/badge/-Java-141a20?style=flat\&logo=Java\&logoColor=FFA518) 
 ![PHP](https://img.shields.io/badge/-PHP-141a20?style=flat\&logo=php) 
