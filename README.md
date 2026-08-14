@@ -3,7 +3,7 @@
 
 ### 🌱 About Me 🌱
 
-I'm a 2nd-year Software Engineering student.
+I'm a 3rd-year Software Engineering student.
 
 Currently I work as a Freelance Full-Stack Engineer and I focus on web architectures and AI integrations.
 
@@ -18,6 +18,7 @@ As a former member of the Türk Beyin Takımı, I love applying strategic proble
 ![JavaScript](https://img.shields.io/badge/-JavaScript-141a20?style=flat&logo=javascript) 
 ![Java](https://img.shields.io/badge/-Java-141a20?style=flat&logo=Java&logoColor=FFA518) 
 ![PHP](https://img.shields.io/badge/-PHP-141a20?style=flat&logo=php) 
+![C++](https://img.shields.io/badge/-C++-141a20?style=flat&logo=cplusplus)
 ![Dart](https://img.shields.io/badge/-Dart-141a20?style=flat&logo=dart) 
 
 **AI & Machine Learning**  
@@ -42,7 +43,10 @@ As a former member of the Türk Beyin Takımı, I love applying strategic proble
 ![Supabase](https://img.shields.io/badge/-Supabase-141a20?style=flat&logo=supabase) 
 
 **DevOps & Deployment**  
+![Git](https://img.shields.io/badge/-Git-141a20?style=flat&logo=git)
 ![Docker](https://img.shields.io/badge/-Docker-141a20?style=flat&logo=docker) 
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-141a20?style=flat&logo=kubernetes)
+![Jenkins](https://img.shields.io/badge/-Jenkins-141a20?style=flat&logo=jenkins)
 ![Coolify](https://img.shields.io/badge/-Coolify-141a20?style=flat&logo=Coolify&logoColor=FFA518) 
 ![Vercel](https://img.shields.io/badge/-Vercel-141a20?style=flat&logo=vercel&logoColor=white)
 
@@ -50,9 +54,10 @@ As a former member of the Türk Beyin Takımı, I love applying strategic proble
 ![Edge Computing](https://img.shields.io/badge/-Edge_Computing-141a20?style=flat&logo=cloudflare&logoColor=F38020)
 ![.NET](https://img.shields.io/badge/-.NET-141a20?style=flat&logo=dotnet&logoColor=white)
 ![GDScript](https://img.shields.io/badge/-GDScript-141a20?style=flat&logo=godotengine)
+![Spring](https://img.shields.io/badge/-Spring-141a20?style=flat&logo=spring)
+![Hibernate](https://img.shields.io/badge/-Hibernate-141a20?style=flat&logo=hibernate)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-141a20?style=flat&logo=mongodb)
 ![PL/SQL](https://img.shields.io/badge/-PL%2FSQL-141a20?style=flat&logo=oracle&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-141a20?style=flat&logo=kubernetes)
 
 ---------------
 ### ✨ My Skills ✨​
