@@ -16,11 +16,12 @@ As a former member of the Türk Beyin Takımı, I love applying strategic proble
 ![Python](https://img.shields.io/badge/-Python-141a20?style=flat&logo=python) 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-141a20?style=flat&logo=typescript&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-141a20?style=flat&logo=javascript) 
-![Java](https://img.shields.io/badge/-Java-141a20?style=flat&logo=Java&logoColor=FFA518) 
+![Java](https://img.shields.io/badge/-Java-141a20?style=flat&logo=openjdk&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-141a20?style=flat&logo=php) 
 ![C++](https://img.shields.io/badge/-C++-141a20?style=flat&logo=cplusplus)
 ![Dart](https://img.shields.io/badge/-Dart-141a20?style=flat&logo=dart) 
 ![GDScript](https://img.shields.io/badge/-GDScript-141a20?style=flat&logo=godotengine)
+![SQL](https://img.shields.io/badge/-SQL-141a20?style=flat&logo=sqlite&logoColor=white)
 
 **AI & Machine Learning**  
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-141a20?style=flat&logo=tensorflow) 
@@ -58,7 +59,7 @@ As a former member of the Türk Beyin Takımı, I love applying strategic proble
 **Currently Learning**  
 ![Edge Computing](https://img.shields.io/badge/-Edge_Computing-141a20?style=flat&logo=cloudflare&logoColor=F38020)
 ![.NET](https://img.shields.io/badge/-.NET-141a20?style=flat&logo=dotnet&logoColor=white)
-![PL/SQL](https://img.shields.io/badge/-PL%2FSQL-141a20?style=flat&logo=oracle&logoColor=white)
+![PL/SQL](https://img.shields.io/badge/-PL%2FSQL-141a20?style=flat&logo=datagrip&logoColor=white)
 
 ---------------
 ### ✨ My Skills ✨​
