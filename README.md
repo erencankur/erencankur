@@ -14,6 +14,7 @@ As a former member of the Türk Beyin Takımı, I love applying strategic proble
 
 **Languages**  
 ![Python](https://img.shields.io/badge/-Python-141a20?style=flat&logo=python) 
+![R](https://img.shields.io/badge/-R-141a20?style=flat&logo=r&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-141a20?style=flat&logo=typescript&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-141a20?style=flat&logo=javascript) 
 ![Java](https://img.shields.io/badge/-Java-141a20?style=flat&logo=openjdk&logoColor=white)
