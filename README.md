@@ -21,14 +21,15 @@ As a former member of the Türk Beyin Takımı, I love applying strategic proble
 ![PHP](https://img.shields.io/badge/-PHP-141a20?style=flat&logo=php) 
 ![C++](https://img.shields.io/badge/-C++-141a20?style=flat&logo=cplusplus)
 ![Dart](https://img.shields.io/badge/-Dart-141a20?style=flat&logo=dart) 
-![GDScript](https://img.shields.io/badge/-GDScript-141a20?style=flat&logo=godotengine)
 ![SQL](https://img.shields.io/badge/-SQL-141a20?style=flat&logo=sqlite&logoColor=white)
 
 **AI & Machine Learning**  
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-141a20?style=flat&logo=tensorflow) 
 ![PyTorch](https://img.shields.io/badge/-PyTorch-141a20?style=flat&logo=pytorch) 
+![YOLO](https://img.shields.io/badge/-YOLO-141a20?style=flat&logo=yolo&logoColor=white)
 ![MediaPipe](https://img.shields.io/badge/-MediaPipe-141a20?style=flat&logo=mediapipe) 
 ![OpenCV](https://img.shields.io/badge/-OpenCV-141a20?style=flat&logo=opencv) 
+![Pandas](https://img.shields.io/badge/-Pandas-141a20?style=flat&logo=pandas&logoColor=white)
 
 **Frontend & Mobile**  
 ![React](https://img.shields.io/badge/-React-141a20?style=flat&logo=react) 
@@ -39,8 +40,6 @@ As a former member of the Türk Beyin Takımı, I love applying strategic proble
 **Backend & Database**  
 ![FastAPI](https://img.shields.io/badge/-FastAPI-141a20?style=flat&logo=fastapi&logoColor=009688) 
 ![Django](https://img.shields.io/badge/-Django-141a20?style=flat&logo=django&logoColor=white)
-![Spring](https://img.shields.io/badge/-Spring-141a20?style=flat&logo=spring)
-![Hibernate](https://img.shields.io/badge/-Hibernate-141a20?style=flat&logo=hibernate)
 ![Prisma](https://img.shields.io/badge/-Prisma-141a20?style=flat&logo=prisma&logoColor=white) 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-141a20?style=flat&logo=postgresql) 
 ![MySQL](https://img.shields.io/badge/-MySQL-141a20?style=flat&logo=mysql) 
@@ -60,21 +59,26 @@ As a former member of the Türk Beyin Takımı, I love applying strategic proble
 **Currently Learning**  
 ![Edge Computing](https://img.shields.io/badge/-Edge_Computing-141a20?style=flat&logo=cloudflare&logoColor=F38020)
 ![.NET](https://img.shields.io/badge/-.NET-141a20?style=flat&logo=dotnet&logoColor=white)
+![Spring](https://img.shields.io/badge/-Spring-141a20?style=flat&logo=spring)
+![Hibernate](https://img.shields.io/badge/-Hibernate-141a20?style=flat&logo=hibernate)
+![GDScript](https://img.shields.io/badge/-GDScript-141a20?style=flat&logo=godotengine)
 ![PL/SQL](https://img.shields.io/badge/-PL%2FSQL-141a20?style=flat&logo=datagrip&logoColor=white)
 
 ---------------
 ### ✨ My Skills ✨​
 
-![System Design](https://img.shields.io/badge/-System_Design-141a20?style=flat&logo=)&nbsp;
-![Backend Architecture](https://img.shields.io/badge/-Backend_Architecture-141a20?style=flat&logo=)&nbsp;
-![Database Management](https://img.shields.io/badge/-Database_Management-141a20?style=flat&logo=)&nbsp;
-![API Development](https://img.shields.io/badge/-API_Development-141a20?style=flat&logo=)&nbsp;
-![Cloud Infrastructure](https://img.shields.io/badge/-Cloud_Infrastructure-141a20?style=flat&logo=)&nbsp;
 ![Deep Learning](https://img.shields.io/badge/-Deep_Learning-141a20?style=flat&logo=)&nbsp;
+![Machine Learning](https://img.shields.io/badge/-Machine_Learning-141a20?style=flat&logo=)&nbsp;
+![Computer Vision](https://img.shields.io/badge/-Computer_Vision-141a20?style=flat&logo=)&nbsp;
 ![Image Processing](https://img.shields.io/badge/-Image_Processing-141a20?style=flat&logo=)&nbsp;
 ![Data Science](https://img.shields.io/badge/-Data_Science-141a20?style=flat&logo=)&nbsp;
+![System Design](https://img.shields.io/badge/-System_Design-141a20?style=flat&logo=)&nbsp;
+![Backend Architecture](https://img.shields.io/badge/-Backend_Architecture-141a20?style=flat&logo=)&nbsp;
+![API Development](https://img.shields.io/badge/-API_Development-141a20?style=flat&logo=)&nbsp;
+![Database Management](https://img.shields.io/badge/-Database_Management-141a20?style=flat&logo=)&nbsp;
+![Cloud Infrastructure](https://img.shields.io/badge/-Cloud_Infrastructure-141a20?style=flat&logo=)&nbsp;
 ![AI Pair Programming](https://img.shields.io/badge/-AI_Pair_Programming-141a20?style=flat&logo=)&nbsp;
-![AI-Assisted Design](https://img.shields.io/badge/-AI--Assisted_Design-141a20?style=flat&logo=)&nbsp;
+![AI Assisted Design](https://img.shields.io/badge/-AI_Assisted_Design-141a20?style=flat&logo=)&nbsp;
 
 ---------------
 ### 📫 Contact Me 📫
