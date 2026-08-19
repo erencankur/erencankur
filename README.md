@@ -46,7 +46,6 @@ As a former member of the Türk Beyin Takımı, I love applying strategic proble
 ![SQLite](https://img.shields.io/badge/-SQLite-141a20?style=flat&logo=sqlite) 
 ![Firebase](https://img.shields.io/badge/-Firebase-141a20?style=flat&logo=firebase) 
 ![Supabase](https://img.shields.io/badge/-Supabase-141a20?style=flat&logo=supabase)
-![MongoDB](https://img.shields.io/badge/-MongoDB-141a20?style=flat&logo=mongodb)
 
 **DevOps & Deployment**  
 ![Git](https://img.shields.io/badge/-Git-141a20?style=flat&logo=git)
@@ -62,6 +61,7 @@ As a former member of the Türk Beyin Takımı, I love applying strategic proble
 ![Spring](https://img.shields.io/badge/-Spring-141a20?style=flat&logo=spring)
 ![Hibernate](https://img.shields.io/badge/-Hibernate-141a20?style=flat&logo=hibernate)
 ![GDScript](https://img.shields.io/badge/-GDScript-141a20?style=flat&logo=godotengine)
+![MongoDB](https://img.shields.io/badge/-MongoDB-141a20?style=flat&logo=mongodb)
 ![PL/SQL](https://img.shields.io/badge/-PL%2FSQL-141a20?style=flat&logo=datagrip&logoColor=white)
 
 ---------------
