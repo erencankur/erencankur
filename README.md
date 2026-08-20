@@ -23,13 +23,16 @@ As a former member of the Türk Beyin Takımı, I love applying strategic proble
 ![Dart](https://img.shields.io/badge/-Dart-141a20?style=flat&logo=dart) 
 ![SQL](https://img.shields.io/badge/-SQL-141a20?style=flat&logo=sqlite&logoColor=white)
 
-**AI & Machine Learning**  
+**Machine Learning & Deep Learning**  
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-141a20?style=flat&logo=tensorflow) 
 ![PyTorch](https://img.shields.io/badge/-PyTorch-141a20?style=flat&logo=pytorch) 
 ![YOLO](https://img.shields.io/badge/-YOLO-141a20?style=flat&logo=yolo&logoColor=white)
 ![MediaPipe](https://img.shields.io/badge/-MediaPipe-141a20?style=flat&logo=mediapipe) 
 ![OpenCV](https://img.shields.io/badge/-OpenCV-141a20?style=flat&logo=opencv) 
+![NumPy](https://img.shields.io/badge/-NumPy-141a20?style=flat&logo=numpy)
+![SciPy](https://img.shields.io/badge/-SciPy-141a20?style=flat&logo=scipy)
 ![Pandas](https://img.shields.io/badge/-Pandas-141a20?style=flat&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-141a20?style=flat)
 
 **Frontend & Mobile**  
 ![React](https://img.shields.io/badge/-React-141a20?style=flat&logo=react) 
@@ -44,8 +47,10 @@ As a former member of the Türk Beyin Takımı, I love applying strategic proble
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-141a20?style=flat&logo=postgresql) 
 ![MySQL](https://img.shields.io/badge/-MySQL-141a20?style=flat&logo=mysql) 
 ![SQLite](https://img.shields.io/badge/-SQLite-141a20?style=flat&logo=sqlite) 
+![MongoDB](https://img.shields.io/badge/-MongoDB-141a20?style=flat&logo=mongodb)
 ![Firebase](https://img.shields.io/badge/-Firebase-141a20?style=flat&logo=firebase) 
 ![Supabase](https://img.shields.io/badge/-Supabase-141a20?style=flat&logo=supabase)
+![Redis](https://img.shields.io/badge/-Redis-141a20?style=flat&logo=redis&logoColor=white)
 
 **DevOps & Deployment**  
 ![Git](https://img.shields.io/badge/-Git-141a20?style=flat&logo=git)
@@ -56,12 +61,12 @@ As a former member of the Türk Beyin Takımı, I love applying strategic proble
 ![Vercel](https://img.shields.io/badge/-Vercel-141a20?style=flat&logo=vercel&logoColor=white)
 
 **Currently Learning**  
+![ONNX](https://img.shields.io/badge/-ONNX-141a20?style=flat&logo=onnx)
+![TensorRT](https://img.shields.io/badge/-TensorRT-141a20?style=flat&logo=nvidia)
+![BiLSTM](https://img.shields.io/badge/-BiLSTM-141a20?style=flat)
 ![Edge Computing](https://img.shields.io/badge/-Edge_Computing-141a20?style=flat&logo=cloudflare&logoColor=F38020)
 ![.NET](https://img.shields.io/badge/-.NET-141a20?style=flat&logo=dotnet&logoColor=white)
 ![Spring](https://img.shields.io/badge/-Spring-141a20?style=flat&logo=spring)
-![Hibernate](https://img.shields.io/badge/-Hibernate-141a20?style=flat&logo=hibernate)
-![Redis](https://img.shields.io/badge/-Redis-141a20?style=flat&logo=redis&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-141a20?style=flat&logo=mongodb)
 ![PL/SQL](https://img.shields.io/badge/-PL%2FSQL-141a20?style=flat&logo=datagrip&logoColor=white)
 ![GDScript](https://img.shields.io/badge/-GDScript-141a20?style=flat&logo=godotengine)
 
