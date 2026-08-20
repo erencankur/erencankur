@@ -60,9 +60,10 @@ As a former member of the Türk Beyin Takımı, I love applying strategic proble
 ![.NET](https://img.shields.io/badge/-.NET-141a20?style=flat&logo=dotnet&logoColor=white)
 ![Spring](https://img.shields.io/badge/-Spring-141a20?style=flat&logo=spring)
 ![Hibernate](https://img.shields.io/badge/-Hibernate-141a20?style=flat&logo=hibernate)
-![GDScript](https://img.shields.io/badge/-GDScript-141a20?style=flat&logo=godotengine)
+![Redis](https://img.shields.io/badge/-Redis-141a20?style=flat&logo=redis&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-141a20?style=flat&logo=mongodb)
 ![PL/SQL](https://img.shields.io/badge/-PL%2FSQL-141a20?style=flat&logo=datagrip&logoColor=white)
+![GDScript](https://img.shields.io/badge/-GDScript-141a20?style=flat&logo=godotengine)
 
 ---------------
 ### ✨ My Skills ✨​
