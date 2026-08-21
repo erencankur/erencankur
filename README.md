@@ -43,10 +43,12 @@ As a former member of the Türk Beyin Takımı, I love applying strategic proble
 **Backend & Database**  
 ![FastAPI](https://img.shields.io/badge/-FastAPI-141a20?style=flat&logo=fastapi&logoColor=009688) 
 ![Django](https://img.shields.io/badge/-Django-141a20?style=flat&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-141a20?style=flat&logo=flask&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-141a20?style=flat&logo=sqlalchemy&logoColor=white)
 ![Prisma](https://img.shields.io/badge/-Prisma-141a20?style=flat&logo=prisma&logoColor=white) 
+![SQLite](https://img.shields.io/badge/-SQLite-141a20?style=flat&logo=sqlite) 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-141a20?style=flat&logo=postgresql) 
 ![MySQL](https://img.shields.io/badge/-MySQL-141a20?style=flat&logo=mysql) 
-![SQLite](https://img.shields.io/badge/-SQLite-141a20?style=flat&logo=sqlite) 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-141a20?style=flat&logo=mongodb)
 ![Firebase](https://img.shields.io/badge/-Firebase-141a20?style=flat&logo=firebase) 
 ![Supabase](https://img.shields.io/badge/-Supabase-141a20?style=flat&logo=supabase)
@@ -83,6 +85,7 @@ As a former member of the Türk Beyin Takımı, I love applying strategic proble
 ![API Development](https://img.shields.io/badge/-API_Development-141a20?style=flat&logo=)&nbsp;
 ![Database Management](https://img.shields.io/badge/-Database_Management-141a20?style=flat&logo=)&nbsp;
 ![Cloud Infrastructure](https://img.shields.io/badge/-Cloud_Infrastructure-141a20?style=flat&logo=)&nbsp;
+![Content Delivery Network](https://img.shields.io/badge/-Content_Delivery_Network-141a20?style=flat&logo=)&nbsp;
 ![AI Pair Programming](https://img.shields.io/badge/-AI_Pair_Programming-141a20?style=flat&logo=)&nbsp;
 ![AI Assisted Design](https://img.shields.io/badge/-AI_Assisted_Design-141a20?style=flat&logo=)&nbsp;
 
