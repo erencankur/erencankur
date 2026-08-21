@@ -57,7 +57,6 @@ As a former member of the Türk Beyin Takımı, I love applying strategic proble
 **DevOps & Deployment**  
 ![Git](https://img.shields.io/badge/-Git-141a20?style=flat&logo=git)
 ![Docker](https://img.shields.io/badge/-Docker-141a20?style=flat&logo=docker) 
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-141a20?style=flat&logo=kubernetes)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-141a20?style=flat&logo=jenkins)
 ![Coolify](https://img.shields.io/badge/-Coolify-141a20?style=flat&logo=Coolify&logoColor=FFA518) 
 ![Vercel](https://img.shields.io/badge/-Vercel-141a20?style=flat&logo=vercel&logoColor=white)
@@ -70,6 +69,7 @@ As a former member of the Türk Beyin Takımı, I love applying strategic proble
 ![.NET](https://img.shields.io/badge/-.NET-141a20?style=flat&logo=dotnet&logoColor=white)
 ![Spring](https://img.shields.io/badge/-Spring-141a20?style=flat&logo=spring)
 ![PL/SQL](https://img.shields.io/badge/-PL%2FSQL-141a20?style=flat&logo=datagrip&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-141a20?style=flat&logo=kubernetes)
 ![GDScript](https://img.shields.io/badge/-GDScript-141a20?style=flat&logo=godotengine)
 
 ---------------
