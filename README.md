@@ -62,15 +62,11 @@ As a former member of the Türk Beyin Takımı, I love applying strategic proble
 ![Vercel](https://img.shields.io/badge/-Vercel-141a20?style=flat&logo=vercel&logoColor=white)
 
 **Currently Learning**  
-![ONNX](https://img.shields.io/badge/-ONNX-141a20?style=flat&logo=onnx)
-![TensorRT](https://img.shields.io/badge/-TensorRT-141a20?style=flat&logo=nvidia)
-![BiLSTM](https://img.shields.io/badge/-BiLSTM-141a20?style=flat)
-![Edge Computing](https://img.shields.io/badge/-Edge_Computing-141a20?style=flat&logo=cloudflare&logoColor=F38020)
-![.NET](https://img.shields.io/badge/-.NET-141a20?style=flat&logo=dotnet&logoColor=white)
+![GDScript](https://img.shields.io/badge/-GDScript-141a20?style=flat&logo=godotengine)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-141a20?style=flat&logo=kubernetes)
 ![Spring](https://img.shields.io/badge/-Spring-141a20?style=flat&logo=spring)
 ![PL/SQL](https://img.shields.io/badge/-PL%2FSQL-141a20?style=flat&logo=datagrip&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-141a20?style=flat&logo=kubernetes)
-![GDScript](https://img.shields.io/badge/-GDScript-141a20?style=flat&logo=godotengine)
+
 
 ---------------
 ### ✨ My Skills ✨​
