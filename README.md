@@ -80,9 +80,7 @@ As a former member of the Türk Beyin Takımı, I love applying strategic proble
 ![Backend Architecture](https://img.shields.io/badge/-Backend_Architecture-141a20?style=flat&logo=)&nbsp;
 ![API Development](https://img.shields.io/badge/-API_Development-141a20?style=flat&logo=)&nbsp;
 ![Database Management](https://img.shields.io/badge/-Database_Management-141a20?style=flat&logo=)&nbsp;
-![Cloud Infrastructure](https://img.shields.io/badge/-Cloud_Infrastructure-141a20?style=flat&logo=)&nbsp;
-![Content Delivery Network](https://img.shields.io/badge/-Content_Delivery_Network-141a20?style=flat&logo=)&nbsp;
-![AI Pair Programming](https://img.shields.io/badge/-AI_Pair_Programming-141a20?style=flat&logo=)&nbsp;
+![Prompt Engineering](https://img.shields.io/badge/-Prompt_Engineering-141a20?style=flat&logo=)&nbsp;
 ![AI Assisted Design](https://img.shields.io/badge/-AI_Assisted_Design-141a20?style=flat&logo=)&nbsp;
 
 ---------------
