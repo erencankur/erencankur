@@ -22,6 +22,7 @@ As a former member of the Türk Beyin Takımı, I love applying strategic proble
 ![C++](https://img.shields.io/badge/-C++-141a20?style=flat&logo=cplusplus)
 ![Dart](https://img.shields.io/badge/-Dart-141a20?style=flat&logo=dart) 
 ![SQL](https://img.shields.io/badge/-SQL-141a20?style=flat&logo=sqlite&logoColor=white)
+![GDScript](https://img.shields.io/badge/-GDScript-141a20?style=flat&logo=godotengine)
 
 **Machine Learning & Deep Learning**  
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-141a20?style=flat&logo=tensorflow) 
@@ -40,12 +41,7 @@ As a former member of the Türk Beyin Takımı, I love applying strategic proble
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-141a20?style=flat&logo=tailwindcss)
 ![Flutter](https://img.shields.io/badge/-Flutter-141a20?style=flat&logo=flutter) 
 
-**Backend & Database**  
-![FastAPI](https://img.shields.io/badge/-FastAPI-141a20?style=flat&logo=fastapi&logoColor=009688) 
-![Django](https://img.shields.io/badge/-Django-141a20?style=flat&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-141a20?style=flat&logo=flask&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-141a20?style=flat&logo=sqlalchemy&logoColor=white)
-![Prisma](https://img.shields.io/badge/-Prisma-141a20?style=flat&logo=prisma&logoColor=white) 
+**Databases**  
 ![SQLite](https://img.shields.io/badge/-SQLite-141a20?style=flat&logo=sqlite) 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-141a20?style=flat&logo=postgresql) 
 ![MySQL](https://img.shields.io/badge/-MySQL-141a20?style=flat&logo=mysql) 
@@ -54,18 +50,21 @@ As a former member of the Türk Beyin Takımı, I love applying strategic proble
 ![Supabase](https://img.shields.io/badge/-Supabase-141a20?style=flat&logo=supabase)
 ![Redis](https://img.shields.io/badge/-Redis-141a20?style=flat&logo=redis&logoColor=white)
 
+**Backend & API**  
+![FastAPI](https://img.shields.io/badge/-FastAPI-141a20?style=flat&logo=fastapi&logoColor=009688) 
+![Django](https://img.shields.io/badge/-Django-141a20?style=flat&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-141a20?style=flat&logo=flask&logoColor=white)
+![Spring](https://img.shields.io/badge/-Spring-141a20?style=flat&logo=spring)
+![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-141a20?style=flat&logo=sqlalchemy&logoColor=white)
+![Prisma](https://img.shields.io/badge/-Prisma-141a20?style=flat&logo=prisma&logoColor=white) 
+![Hibernate](https://img.shields.io/badge/-Hibernate-141a20?style=flat&logo=prisma&logoColor=white) 
+
 **DevOps & Deployment**  
 ![Git](https://img.shields.io/badge/-Git-141a20?style=flat&logo=git)
 ![Docker](https://img.shields.io/badge/-Docker-141a20?style=flat&logo=docker) 
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-141a20?style=flat&logo=kubernetes)
 ![Coolify](https://img.shields.io/badge/-Coolify-141a20?style=flat&logo=Coolify&logoColor=FFA518) 
 ![Vercel](https://img.shields.io/badge/-Vercel-141a20?style=flat&logo=vercel&logoColor=white)
-
-**Currently Learning**  
-![GDScript](https://img.shields.io/badge/-GDScript-141a20?style=flat&logo=godotengine)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-141a20?style=flat&logo=kubernetes)
-![Spring](https://img.shields.io/badge/-Spring-141a20?style=flat&logo=spring)
-![PL/SQL](https://img.shields.io/badge/-PL%2FSQL-141a20?style=flat&logo=datagrip&logoColor=white)
-
 
 ---------------
 ### ✨ My Skills ✨​
