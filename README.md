@@ -57,7 +57,6 @@ As a former member of the Türk Beyin Takımı, I love applying strategic proble
 **DevOps & Deployment**  
 ![Git](https://img.shields.io/badge/-Git-141a20?style=flat&logo=git)
 ![Docker](https://img.shields.io/badge/-Docker-141a20?style=flat&logo=docker) 
-![Jenkins](https://img.shields.io/badge/-Jenkins-141a20?style=flat&logo=jenkins)
 ![Coolify](https://img.shields.io/badge/-Coolify-141a20?style=flat&logo=Coolify&logoColor=FFA518) 
 ![Vercel](https://img.shields.io/badge/-Vercel-141a20?style=flat&logo=vercel&logoColor=white)
 
